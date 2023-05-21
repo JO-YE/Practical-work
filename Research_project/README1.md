@@ -114,13 +114,13 @@ In this part you have to add textures on the ground and/or on the ceiling !
 11. Weapons
 > Add weapons textures !
 >
-- [wea](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/9e1e52c573a2cfb6639b0d364d0ab59ad35ab242.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230521T152925Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9306ab89993dd73bb89466710e2d7ce7bdd98b5c1bfd830172dde7b499868c12)
+- ![wea](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/9e1e52c573a2cfb6639b0d364d0ab59ad35ab242.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230521T152925Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9306ab89993dd73bb89466710e2d7ce7bdd98b5c1bfd830172dde7b499868c12)
 
 12. Enemies
 > Add some enemies !
 >
 > Example from the game Wolfenstein 3D:
-- [enemies](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d24c48be8c7ee901d251f35cad5673705d4dcc70.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230521T152925Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a51d40981f2d7a8ef08589e074cb3479f557bd978bd3b75eeb855a36cc3e226c)
+- ![enemies](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d24c48be8c7ee901d251f35cad5673705d4dcc70.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230521T152925Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a51d40981f2d7a8ef08589e074cb3479f557bd978bd3b75eeb855a36cc3e226c)
 
 13. Make it rain
 > Add rain and a possibility to stop / start the rain with a key.
